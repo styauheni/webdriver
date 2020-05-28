@@ -20,7 +20,7 @@ public class WebDriverTest {
         System.setProperty(ChromeDriverService.CHROME_DRIVER_SILENT_OUTPUT_PROPERTY, "true");
         driver = new ChromeDriver();
         driver.get("https://skryabin.com/market/quote.html");
-        
+
     }
 
     @Test
