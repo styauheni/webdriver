@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2376dd23-0ad9-492e-82ae-9ab535544735" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1c35l9CSyQJYMm2686fSf42bA9r" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/test" />
+      <recent name="$PROJECT_DIR$/src/test/java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.WebDriverTest.verifyTitle">
+    <configuration name="WebDriverTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="webdriver" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WebDriverTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebDriverTest.e2eQuoteTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="webdriver" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WebDriverTest" />
+      <option name="METHOD_NAME" value="e2eQuoteTest1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebDriverTest.fieldsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="webdriver" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WebDriverTest" />
+      <option name="METHOD_NAME" value="fieldsTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebDriverTest.verifyTitle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="webdriver" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WebDriverTest" />
+      <option name="METHOD_NAME" value="verifyTitle" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WebDriverTest.verifyTitle" />
+        <item itemvalue="JUnit.WebDriverTest" />
+        <item itemvalue="JUnit.WebDriverTest.fieldsTest" />
+        <item itemvalue="JUnit.WebDriverTest.e2eQuoteTest1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2376dd23-0ad9-492e-82ae-9ab535544735" name="Default Changelist" comment="" />
+      <created>1589744584623</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589744584623</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="424" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589752579665">
+      <screen x="0" y="23" width="1920" height="991" />
+    </state>
+    <state x="424" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.23.1920.1057/0.23.1920.991@0.23.1920.991" timestamp="1589752579665" />
+    <state width="1878" height="260" key="GridCell.Tab.0.bottom" timestamp="1590555109508">
+      <screen x="0" y="23" width="1920" height="991" />
+    </state>
+    <state width="1878" height="260" key="GridCell.Tab.0.bottom/0.23.1920.991/1920.23.1920.1057@0.23.1920.991" timestamp="1590555109508" />
+    <state width="1878" height="260" key="GridCell.Tab.0.bottom/1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1589770436726" />
+    <state width="1878" height="260" key="GridCell.Tab.0.bottom/1920.23.1920.1057/0.23.1920.992@0.23.1920.992" timestamp="1589778315955" />
+    <state width="1878" height="260" key="GridCell.Tab.0.center" timestamp="1590555109506">
+      <screen x="0" y="23" width="1920" height="991" />
+    </state>
+    <state width="1878" height="260" key="GridCell.Tab.0.center/0.23.1920.991/1920.23.1920.1057@0.23.1920.991" timestamp="1590555109506" />
+    <state width="1878" height="260" key="GridCell.Tab.0.center/1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1589770436724" />
+    <state width="1878" height="260" key="GridCell.Tab.0.center/1920.23.1920.1057/0.23.1920.992@0.23.1920.992" timestamp="1589778315954" />
+    <state width="1878" height="260" key="GridCell.Tab.0.left" timestamp="1590555109505">
+      <screen x="0" y="23" width="1920" height="991" />
+    </state>
+    <state width="1878" height="260" key="GridCell.Tab.0.left/0.23.1920.991/1920.23.1920.1057@0.23.1920.991" timestamp="1590555109505" />
+    <state width="1878" height="260" key="GridCell.Tab.0.left/1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1589770436724" />
+    <state width="1878" height="260" key="GridCell.Tab.0.left/1920.23.1920.1057/0.23.1920.992@0.23.1920.992" timestamp="1589778315953" />
+    <state width="1878" height="260" key="GridCell.Tab.0.right" timestamp="1590555109507">
+      <screen x="0" y="23" width="1920" height="991" />
+    </state>
+    <state width="1878" height="260" key="GridCell.Tab.0.right/0.23.1920.991/1920.23.1920.1057@0.23.1920.991" timestamp="1590555109507" />
+    <state width="1878" height="260" key="GridCell.Tab.0.right/1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1589770436725" />
+    <state width="1878" height="260" key="GridCell.Tab.0.right/1920.23.1920.1057/0.23.1920.992@0.23.1920.992" timestamp="1589778315955" />
+    <state x="448" y="101" key="SettingsEditor" timestamp="1589754331333">
+      <screen x="0" y="23" width="1920" height="992" />
+    </state>
+    <state x="448" y="101" key="SettingsEditor/1920.23.1920.1057/0.23.1920.991@0.23.1920.991" timestamp="1589752933191" />
+    <state x="448" y="101" key="SettingsEditor/1920.23.1920.1057/0.23.1920.992@0.23.1920.992" timestamp="1589754331333" />
+    <state x="625" y="240" key="run.anything.popup" timestamp="1590540369759">
+      <screen x="0" y="23" width="1920" height="991" />
+    </state>
+    <state x="625" y="240" key="run.anything.popup/0.23.1920.991/1920.23.1920.1057@0.23.1920.991" timestamp="1590540369759" />
+    <state x="625" y="244" width="670" height="676" key="search.everywhere.popup" timestamp="1590540387162">
+      <screen x="0" y="23" width="1920" height="991" />
+    </state>
+    <state x="625" y="244" width="670" height="676" key="search.everywhere.popup/0.23.1920.991/1920.23.1920.1057@0.23.1920.991" timestamp="1590540387162" />
+  </component>
+</project>
